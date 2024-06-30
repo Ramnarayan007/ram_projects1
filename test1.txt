@@ -1,5 +1,5 @@
 creates text file named "test1" in GitHub repository
-To import a clone file in your local Directory from gitHub repository you have to use this command -> " git clone 'your origin link' " 
+To import a clone file in your local Directory from gitHub repository you have to use this command in VSC terminal -> " git clone 'your origin link' " 
 note : origin link is available in " repository -> code " in the GitHub.  
 Updated this file...!
 
