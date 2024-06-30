@@ -1,0 +1,24 @@
+
+1. Firstly, to create a NewFolder in your local directory  named "Git" or anything you want to put,  
+2. to set directory in VSC terminal "cd ram_projects1 in VS code terminal"
+3. to change your codes or files modifications in your project (EX : test2.txt created)
+4. After modifications, to see the git status for use "git status", it is untracked stage ("U") then you can use "git add test2.txt" in the terminal
+5. then to see the git status in terminal to use "git status", it will be showing "changes to be committed", it is in the staging area
+6. then you have to commit(save) the file in the git copy folder for you can use "git commit -m (modifications changed)" while the file saving, you have to give the command what you have done
+the you have to commiot(save) or put the file in gitHub repository for you can use "git push origin main" then it resides in your GitHub repository
+
+
+
+// Symbol in files
+1. M -> Modified
+2. U -> untracked
+
+
+// GitHub command
+ 
+1.  cd ram_projects1
+2.  git status
+3.  git add test2.txt
+4.  git status
+5.  git commit -m "test2.txt file added"
+6.  git push origin main
